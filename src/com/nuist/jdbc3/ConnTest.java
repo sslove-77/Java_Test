@@ -66,5 +66,6 @@ public class ConnTest {
 
         List<Users> users = dbUtils.queryData(Users.class, sql, args);
         System.out.println(users);
+        System.out.println(users);
     }
 }
