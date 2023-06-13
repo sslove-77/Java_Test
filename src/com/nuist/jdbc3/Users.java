@@ -12,6 +12,7 @@ import java.math.BigDecimal;
 @Data
 public class Users {
 
+//    定义id，姓名，年龄
     private BigDecimal id;
     private String name;
     private BigDecimal age;
